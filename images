@@ -1,4 +1,6 @@
-images/
+repo/
+├── index.html
+├── images/
   Bedroom_Set.jpg
   Beige_Dresser.jpg
   Black_Dresser.jpg
